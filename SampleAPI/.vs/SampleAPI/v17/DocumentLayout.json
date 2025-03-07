@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Core\\API\\Sam\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|d:\\core\\api\\sam\\sampleapi\\sampleapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|d:\\core\\api\\sam\\sampleapi\\sampleapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|d:\\core\\api\\sam\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|d:\\core\\api\\sam\\sampleapi\\sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|d:\\core\\api\\sam\\sampleapi\\sampleapi\\models\\employeeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3472AAB-EEA8-484A-BD2E-31FD683ED183}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\employeeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:17:54.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:16:40.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleAPI\\appsettings.json",
+              "ToolTip": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\appsettings.json",
+              "RelativeToolTip": "SampleAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T04:15:51.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SampleAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:13:22.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeAPI.cs",
+              "DocumentMoniker": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Models\\EmployeeAPI.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\EmployeeAPI.cs",
+              "ToolTip": "D:\\Core\\API\\Sam\\SampleAPI\\SampleAPI\\Models\\EmployeeAPI.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\EmployeeAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:12:02.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
